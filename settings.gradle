@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='EssentialTraining2018.1'
